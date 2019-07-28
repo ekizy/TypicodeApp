@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TypiCodeMockAPIChallenge</string>
+    <string name="send_message_hint">Send message in format of "%d-%s"</string>
+</resources>
